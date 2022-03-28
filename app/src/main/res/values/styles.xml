@@ -9,5 +9,16 @@
         <item name="windowNoTitle">true</item>
         <item name="windowActionBar">false</item>
     </style>
+    <style name="MyAlertDialogStyle" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="colorAccent">@color/Green</item>
+        <item name="android:textColorPrimary">@color/Gray</item>
+        <item name="android:background">@color/White</item>
+        <item name="android:windowTitleStyle">@style/MyDialogTitleStyle</item>
+    </style>
+
+    <style name="MyDialogTitleStyle">
+        <item name="android:textColor">@color/Gray</item>
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Title</item>
+    </style>
 
 </resources>
