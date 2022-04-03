@@ -1,4 +1,4 @@
-package id.co.ams_plantation;
+package id.co.ams_plantation.ganoderma;
 
 public class Encrypts {
 

@@ -1,4 +1,4 @@
-package id.co.ams_plantation.Model;
+package id.co.ams_plantation.ganoderma.Model;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;

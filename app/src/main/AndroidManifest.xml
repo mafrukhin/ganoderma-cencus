@@ -37,9 +37,9 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name="id.co.ams_plantation.Activity_Main"
+            android:name="id.co.ams_plantation.ganoderma.Activity_Main"
             android:exported="false" />
-        <activity android:name="id.co.ams_plantation.FirstActivity">
+        <activity android:name="id.co.ams_plantation.ganoderma.FirstActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

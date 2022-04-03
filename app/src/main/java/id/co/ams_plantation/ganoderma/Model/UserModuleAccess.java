@@ -1,4 +1,4 @@
-package id.co.ams_plantation.Model;
+package id.co.ams_plantation.ganoderma.Model;
 
 public class UserModuleAccess {
     private String mdlCode;

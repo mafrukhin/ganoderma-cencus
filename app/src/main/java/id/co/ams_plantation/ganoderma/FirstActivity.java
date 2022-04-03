@@ -1,4 +1,4 @@
-package id.co.ams_plantation;
+package id.co.ams_plantation.ganoderma;
 
 import android.Manifest;
 import android.content.DialogInterface;
@@ -13,9 +13,9 @@ import android.widget.Toast;
 
 import id.co.ams_plantation.R;
 import com.google.gson.Gson;
-import id.co.ams_plantation.Model.Estate;
-import id.co.ams_plantation.Model.User;
-import id.co.ams_plantation.Model.UserModuleAccess;
+import id.co.ams_plantation.ganoderma.Model.Estate;
+import id.co.ams_plantation.ganoderma.Model.User;
+import id.co.ams_plantation.ganoderma.Model.UserModuleAccess;
 
 import org.json.JSONArray;
 import org.json.JSONException;

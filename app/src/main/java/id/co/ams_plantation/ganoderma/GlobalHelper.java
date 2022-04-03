@@ -1,12 +1,12 @@
-package id.co.ams_plantation;
+package id.co.ams_plantation.ganoderma;
 
 import android.content.pm.PackageManager;
 import android.os.Environment;
 import android.util.Log;
 
 import com.google.gson.Gson;
-import id.co.ams_plantation.Model.Estate;
-import id.co.ams_plantation.Model.User;
+import id.co.ams_plantation.ganoderma.Model.Estate;
+import id.co.ams_plantation.ganoderma.Model.User;
 
 import java.io.BufferedReader;
 import java.io.File;

@@ -1,4 +1,4 @@
-package id.co.ams_plantation;
+package id.co.ams_plantation.ganoderma;
 
 import android.support.v4.app.ActivityCompat;
 import android.support.v7.app.AppCompatActivity;
