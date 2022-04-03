@@ -1,4 +1,4 @@
-package id.co.ams_plantation.ganoderma.Model;
+package id.co.ams_plantation.ganoderma.data.entity;
 
 /**
  * Created by PASPC-02009 on 04/08/2016.
