@@ -1,4 +1,4 @@
-package com.halo.profileui.Model;
+package id.co.ams_plantation.Model;
 
 /**
  * Created by PASPC-02009 on 04/08/2016.

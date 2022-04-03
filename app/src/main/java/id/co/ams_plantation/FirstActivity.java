@@ -1,4 +1,4 @@
-package com.halo.profileui;
+package id.co.ams_plantation;
 
 import android.Manifest;
 import android.content.DialogInterface;
@@ -11,10 +11,11 @@ import android.os.Bundle;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import id.co.ams_plantation.R;
 import com.google.gson.Gson;
-import com.halo.profileui.Model.Estate;
-import com.halo.profileui.Model.User;
-import com.halo.profileui.Model.UserModuleAccess;
+import id.co.ams_plantation.Model.Estate;
+import id.co.ams_plantation.Model.User;
+import id.co.ams_plantation.Model.UserModuleAccess;
 
 import org.json.JSONArray;
 import org.json.JSONException;

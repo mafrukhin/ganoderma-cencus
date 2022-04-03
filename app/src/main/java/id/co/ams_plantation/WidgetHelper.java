@@ -1,8 +1,9 @@
-package com.halo.profileui;
+package id.co.ams_plantation;
 
 import android.app.AlertDialog;
 import android.content.Context;
 import android.content.DialogInterface;
+import id.co.ams_plantation.R;
 
 public class WidgetHelper {
     public static AlertDialog showOKDialog(Context context,

@@ -1,12 +1,12 @@
-package com.halo.profileui;
+package id.co.ams_plantation;
 
 import android.content.pm.PackageManager;
 import android.os.Environment;
 import android.util.Log;
 
 import com.google.gson.Gson;
-import com.halo.profileui.Model.Estate;
-import com.halo.profileui.Model.User;
+import id.co.ams_plantation.Model.Estate;
+import id.co.ams_plantation.Model.User;
 
 import java.io.BufferedReader;
 import java.io.File;

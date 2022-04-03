@@ -1,4 +1,4 @@
-package com.halo.profileui.Model;
+package id.co.ams_plantation.Model;
 
 public class UserModuleAccess {
     private String mdlCode;

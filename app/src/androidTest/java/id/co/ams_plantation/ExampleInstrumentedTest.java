@@ -1,4 +1,4 @@
-package com.halo.profileui;
+package id.co.ams_plantation;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

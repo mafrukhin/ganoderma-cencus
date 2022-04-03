@@ -1,4 +1,4 @@
-package com.halo.profileui;
+package id.co.ams_plantation;
 
 import android.support.v4.app.ActivityCompat;
 import android.support.v7.app.AppCompatActivity;
@@ -9,6 +9,9 @@ import android.os.Environment;
 import android.support.v4.content.ContextCompat;
 import android.util.Log;
 import android.widget.TextView;
+
+import id.co.ams_plantation.R;
+
 import java.io.File;
 import java.util.ArrayList;
 
